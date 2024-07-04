@@ -8,3 +8,6 @@ Objetivo: Alcanzar una predicción del Índice de Peligrosidad de Volcanes Utili
 Dataset: https://drive.google.com/file/d/1heEHmnrURktKhRc-ph_k-txHetT-0ZbF/view?usp=drive_link
 
 Modelos: DecisionTreeClassifier(Tunning y curva de aprendizaje), RandomForestClassifier(cross-validation),Support vector machine (Kernel rbf , kernel poly y kernel Sigmoid) y Red Neuronal.
+
+
+Cambia a la rama master para visualizar el código del proyecto
