@@ -9,5 +9,7 @@ Dataset: https://drive.google.com/file/d/1heEHmnrURktKhRc-ph_k-txHetT-0ZbF/view?
 
 Modelos: DecisionTreeClassifier(Tunning y curva de aprendizaje), RandomForestClassifier(cross-validation),Support vector machine (Kernel rbf , kernel poly y kernel Sigmoid) y Red Neuronal.
 
+https://youtu.be/PBqxATd2abM
 
 Cambia a la rama master para visualizar el código del proyecto
+
